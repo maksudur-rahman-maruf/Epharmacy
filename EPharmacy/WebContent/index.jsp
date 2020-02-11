@@ -90,7 +90,7 @@
             <li><a href="#"></a></li>
             <li><a href="#"></a></li>
         </ul>	<br />
-    <span><center>Designed by www.facebook.com</center></span>
+    <span><center>Designed by www.myTech.com</center></span>
    
   </div>
 </div>

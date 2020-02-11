@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>About Us - OUR-PHARMACY, New Delhi</title>
+<title>About Us - OUR-PHARMACY, Dhaka</title>
 <A href="index.php"><IMG SRC="images/phar.jpg"></IMG></A>
 
 </head>
@@ -59,7 +59,7 @@
       </table>
   <table width="100%"  border="0" cellspacing="7" cellpadding="0">
         <tr>
-          <td><div align="center"><span class="bottombar"><strong>&copy; OUR-PHARMACY, c.p., New Delhi. All Rights Reserved. </strong></span></div></td>
+          <td><div align="center"><span class="bottombar"><strong>&copy; OUR-PHARMACY, c.p., Dhaka. All Rights Reserved. </strong></span></div></td>
         </tr>
         <tr> 
           <td>

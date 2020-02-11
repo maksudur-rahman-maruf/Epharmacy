@@ -7,13 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Free Pharmaceutical Company Template- Download HTML Website Templates</title>
 <link href="style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript">
-function ctck()
-{
-var sds = document.getElementById("dum");
-if(sds == null){alert("You are using a free package.\n You are not allowed to remove the tag.\n");}
-}
-</script>
+
 
 
 <head>
@@ -218,10 +212,8 @@ function dil(form)
             <li><a href="#"></a></li>
             <li><a href="#"></a></li>
         </ul>	<br />
-    <span id="design">Designed by <a id="dum" href="http://www.javatpoint.com" target="_blank">www.javatpoint.com</a></span>
-    <script type="text/javascript">
-    document.onload = ctck();
-    </script>
+  
+  
   </div>
 </div>
 </body>
@@ -246,10 +238,10 @@ function dil(form)
   
   <div id="footer_copyright" >
  
-    	    <center><img  alt="business"  width="196" height="106"></center><br>
+ 
 		    <p>Each people plan their site layouts depending upon their business type. Here comes a free designer template which provides you with a selection of different kinds of webdesign   starting from business template, fashion template, media template, Science template, Arts template and much more.</p>
 	  
-  Copyright © Your Company Name</div>
+  Copyright ©myTech</div>
 </div>
 
 <script type="text/javascript">
